@@ -1,11 +1,9 @@
 # Map Creator
  Map Creator is part of a larger group program. It was created for the purposes of a project at university studies.
 <br>
-<br>
 
 ## Short description
  Map Creator is a part of a larger optimization program for creating the optimal robot’s route to a destination with known and unknown obstacles. Application is used to create maps with robot, his destination and known and unknown obstacles of various shapes. Program has ability to preview, delete and save maps to the .ppm and .png extension.
-<br>
 <br>
 
 ## Technology
@@ -14,7 +12,6 @@
 * Pillow
 * Click
 * Os
-<br>
 <br>
 
 ## How to run program
