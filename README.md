@@ -12,7 +12,6 @@
 * Pillow
 * Click
 * Os
-<br>
 
 ## How to run program
 Just open program code in your Python IDE# MapCreator
